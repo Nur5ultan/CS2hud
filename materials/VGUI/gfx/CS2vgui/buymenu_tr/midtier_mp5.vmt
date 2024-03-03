@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/gfx/CS2vgui/buymenu_tr/midtier_mp5"
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+}

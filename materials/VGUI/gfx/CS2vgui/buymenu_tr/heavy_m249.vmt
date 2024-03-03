@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/gfx/CS2vgui/buymenu_tr/heavy_m249"
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+}
